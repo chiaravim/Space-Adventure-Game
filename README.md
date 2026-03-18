@@ -5,7 +5,7 @@ A small GUI-based choose-your-own-adventure game built in Python using FreeSimpl
 
 ## Screenshot
 
-![Space Adventure Screenshot](C:/Users/Chiara/Pictures/Screenshots/spacegame.png)
+![Space Adventure Screenshot](spacegame.png)
 
 ## Features
 
